@@ -8,6 +8,5 @@ Day 2: Continuing Foundations Course
     Joined TOP Discord Server, added GitHub to Discord Profile
 
 Day 3: Continuing Foundation Course
-    Lessions: Installation Overview, Installations, Text Editors, Command Line Basics,
+    Lessions: Installation Overview, Installations, Text Editors, Command Line Basics, Setting up Git, Introduction to Git, Git Basics
     Set up SSH keys for GitHub to Desktop IDE
-    
