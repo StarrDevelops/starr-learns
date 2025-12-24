@@ -21,3 +21,5 @@ Day 5: Continuing Foundation Course - HTML
 Day 6: Continuing Foundations Course - CSS
     Lessons: Intro to CSS, The Cascade, Inspecting HTML and CSS
     Box-model example
+
+Day 7: Christmas Eve Break.
