@@ -25,3 +25,8 @@ Day 6: Continuing Foundations Course - CSS
 Day 7: Christmas Eve Break.
 
 Day 8: Christmas Break.
+
+Day 9: Christmas Break Cont.
+
+Day 10: Continuing Foundations Course - CSS
+    Lessons: The Box Model
