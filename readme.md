@@ -30,3 +30,6 @@ Day 9: Christmas Break Cont.
 
 Day 10: Continuing Foundations Course - CSS
     Lessons: The Box Model
+
+Day 11: Continuing Foundations Course - CSS
+    Lessons: Block and Inline,
