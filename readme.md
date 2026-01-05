@@ -35,4 +35,7 @@ Day 11: Continuing Foundations Course - CSS
     Lessons: Block and Inline
 
 Day 12: Continuing Foundations Course - CSS
-    Lesson: Introduction to Flexbox, Growing and Shrinking 
+    Lesson: Introduction to Flexbox, Growing and Shrinking
+
+Day 13: Continuing Foundation Course - CSS
+    Lesson: Axes
