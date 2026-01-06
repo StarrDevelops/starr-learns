@@ -39,3 +39,6 @@ Day 12: Continuing Foundations Course - CSS
 
 Day 13: Continuing Foundation Course - CSS
     Lesson: Axes
+
+Day 14: Continuing Foundation Course - CSS
+    Lesson: Alignment - reading plus exercises 4/7
