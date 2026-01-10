@@ -42,3 +42,6 @@ Day 13: Continuing Foundation Course - CSS
 
 Day 14: Continuing Foundation Course - CSS
     Lesson: Alignment - reading plus exercises 4/7
+
+Day 15: Continuing Foundation Course - CSS
+    Lesson: Alignment - Finished Exercises.
