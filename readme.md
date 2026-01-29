@@ -45,3 +45,6 @@ Day 14: Continuing Foundation Course - CSS
 
 Day 15: Continuing Foundation Course - CSS
     Lesson: Alignment - Finished Exercises.
+
+1/29/15: Continuing Foundation Course - CSS
+    Project: Finished and Submitted Landing Page Project.
